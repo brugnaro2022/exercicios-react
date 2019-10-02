@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "dev": "webpack-dev-server --progress --colors --inline"
+  },
   "devDependencies": {
     "babel-core": "6.2.1",
     "babel-loader": "6.2.10",
